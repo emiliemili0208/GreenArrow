@@ -1,3 +1,4 @@
+
 # ATLS-5214-BigDataArchitecture Team: IceStream
 ## Links
 [Github Repo](https://github.com/CUBigDataClass/IceStream)
@@ -30,3 +31,4 @@ This project aims at using Big Data technologies to build an interactive website
 ![](img/Demo20170423SunChicago1.gif)
 ![](img/Demo20170423SunChicago2.gif)
 ![](img/Demo20170423SunChicago3.gif)
+
